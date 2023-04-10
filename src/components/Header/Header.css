@@ -1,0 +1,19 @@
+.header{
+    color: black;
+    font-weight: 700;
+    height: 80px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+nav.header a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    margin-left: 20px;
+}
